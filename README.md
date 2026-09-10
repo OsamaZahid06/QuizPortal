@@ -1,3 +1,15 @@
+Discription:
+QuizPortal is a web-based Test and Quiz Management System designed to simplify online assessments for teachers and students. The platform allows teachers to create, edit, delete, and manage tests and quizzes through an easy-to-use interface.
+
+Teachers can create tests by adding questions and answers and assign them either subject-wise or to specific selected students. They can also modify existing tests or remove tests when they are no longer required. The system provides teachers with tools to monitor student performance and review quiz results.
+
+Students can view tests assigned to them and attempt quizzes online. Each test has a 10-minute time limit, allowing students to complete their assessment within the specified duration. After submitting the test, students can immediately view their quiz results and evaluate their performance.
+
+The system is designed with separate functionality for teachers and students, providing appropriate access and features for each type of user. It helps reduce manual assessment work, makes test management easier, and provides a convenient way to monitor student progress.
+
+Overall, QuizPortal provides a centralized platform for creating, assigning, conducting, and evaluating online tests while improving the efficiency of the assessment process for both teachers and students.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
